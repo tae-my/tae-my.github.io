@@ -22,13 +22,13 @@ repository               : "tae-my/tae-my.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Tae Kyeong Meixner-Yun"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Ph.D. Researcher | Department of Political & Social Sciences"
+  location         : #
+  employer         : "European University Institute"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "tae.yun@eui.eu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
