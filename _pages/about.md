@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>WZB - Berlin Social Science Center</p>
+    <p>Berlin Social Science Center</p>
     <p>Reichpietschufer 50, D-10785</p>
     <p>Berlin, Germany</p>
 
