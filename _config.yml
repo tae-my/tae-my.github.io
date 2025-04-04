@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
+title: Tae Kyeong Meixner-Yun # the website title (if blank, full name will be used instead)
 first_name: Tae Kyeong
 middle_name:
 last_name: Meixner-Yun
@@ -189,6 +189,8 @@ exclude:
   - package.json
   - package-lock.json
   - _pages/about_einstein.md
+  - _pages/blog.md
+  - _news/announcement_*.md
   - purgecss.config.js
   - README.md
   - readme_preview/
