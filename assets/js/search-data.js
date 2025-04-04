@@ -465,18 +465,11 @@ ninja.data = [{
           window.open("https://orcid.org/https://orcid.org/0000-0001-6686-0773", "_blank");
         },
       },{
-        id: 'social-rss',
-        title: 'RSS Feed',
-        section: 'Socials',
-        handler: () => {
-          window.open("/feed.xml", "_blank");
-        },
-      },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=qc6CJjYAAAAJ", "_blank");
+          window.open("https://scholar.google.com/citations?user=SmMKe0AAAAJ", "_blank");
         },
       },{
       id: 'light-theme',
