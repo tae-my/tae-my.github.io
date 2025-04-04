@@ -5,11 +5,10 @@ permalink: /
 subtitle: Postdoctoral research fellow, <a href='https://www.wzb.eu/en/research/migration-and-diversity/migration-integration-transnationalization'>Berlin Social Science Center (WZB)</a>.
 
 profile:
-  align: left
+  align: right
   image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Tae Kyeong Meixner-Yun</p>
     <p>Berlin Social Science Center (WZB)</p>
     <p>Reichpietschufer 50, D-10785</p>
     <p>Berlin, Germany</p>
